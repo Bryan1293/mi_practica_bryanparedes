@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string-array name="operaciones">
+        <item>Sumar</item>
+        <item>Restar</item>
+        <item>Multiplicar</item>
+        <item>Dividir</item>
+    </string-array>
+    <string name="numero1">Ingresar Numero</string>
+    <string name="numero2">Ingresar Numero</string>
+    <string name="resultado"></string>
+    <string name="text">Suma,Resta,Multiplicar y Dividir</string>
+    <string name="calcular">Calcular</string>
+</resources>
